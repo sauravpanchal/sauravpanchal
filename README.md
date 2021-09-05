@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### :zap: Github Stats
+  <img align="left" alt="Dev-Adnani's Github Stats" src="https://metrics.lecoq.io/sauravpanchal" style="max-width:100%;">
