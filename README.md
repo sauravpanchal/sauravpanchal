@@ -1,8 +1,8 @@
 # Hello Techie, I'm Saurav - aka Saurav Panchal👋
 ## I am full-time student, part-time developer & all-time with chill pill. 
-- 🌱 I’m currently learning web-frameworks & about-open-source
+- 🌱 I’m currently learning web-frameworks
 - 💬 Ask me about Z
-- ⚡ Fun fact: Can spend days binge-watching. ;)
+- ⚡ Fun fact: I'm fine ... really. O_o
 <!-- - 🔭 I’m currently working on chrome-extension
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with open-source-contribution
