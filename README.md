@@ -17,7 +17,7 @@
 
 [![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauravpanchal&show_icons=true&theme=radical)](https://github.com/sauravpanchal)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sauravpanchal&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sauravpanchal&theme=radical)](https://github.com/sauravpanchal)
 <hr />
 
 ### Languages/Tools/Frameworks Known/Worked with :
