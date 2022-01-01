@@ -39,6 +39,7 @@
 <img align="left" alt="Numpy" width="26px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" />
 
 <br />
+
 <hr />
 
 ### Spotify Playing 🎧
