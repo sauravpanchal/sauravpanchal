@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Saurav Panchal</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/sauravpanchhal" target="blank"><img src="https://img.shields.io/twitter/follow/sauravpanchhal?color=1DA1F2&logo=twitter&style=for-the-badge" alt="sauravpanchhal" /></a> </p>
 
-- 🔭 I’m currently working on **Classified**
+- 🔭 I’m currently working on **Confidential Information**
 
 - 🌱 I’m currently learning **Priviledged Information**
 
 - 👯 I’m looking to collaborate on [video-downloader](https://github.com/sauravpanchal/video-downloader)
 
-- 👨‍💻 All of my projects are available at [https://github.com/sauravpanchal](https://github.com/sauravpanchal)
+- 👨‍💻 All of my projects are available at [github.com/sauravpanchal](https://github.com/sauravpanchal)
 
 - 📫 How to reach me **saurav.panchal.08@gmail.com**
 
-- ⚡ Fun fact **Just act like you read something funny here :)**
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1yiTjjhBbCpA4BVYZ922t61ihbqZNPFUu/view?usp=sharing)
+
+- ⚡ Fun fact **just act like you read something funny here 🥴**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
