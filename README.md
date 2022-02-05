@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Priviledged Information**
 
-- 👯 I’m looking to collaborate on [video-downloader](https://github.com/sauravpanchal/video-downloader)
+- 👯 I’m looking to collaborate on [video-downloader](https://github.com/sauravpanchal/video-downloader) & [flappy-bird-dual-mode](https://github.com/sauravpanchal/flappy-bird-dual-mode)
 
 - 👨‍💻 All of my projects are available at [github.com/sauravpanchal](https://github.com/sauravpanchal)
 
