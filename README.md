@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sauravpanchhal" target="blank"><img src="https://img.shields.io/twitter/follow/sauravpanchhal?color=1DA1F2&logo=twitter&style=for-the-badge" alt="sauravpanchhal" /></a> </p>
 
-- 🔭 I’m currently working on **Confidential Information**
+- 🌱 I’m currently learning **shhh🤫** (priviledged information)
 
-- 🌱 I’m currently learning **Priviledged Information**
+- 🔭 I’m currently working on **shhh🤫** (confidential information)
 
 - 👯 I’m looking to collaborate on [video-downloader](https://github.com/sauravpanchal/video-downloader) & [flappy-bird-dual-mode](https://github.com/sauravpanchal/flappy-bird-dual-mode)
 
