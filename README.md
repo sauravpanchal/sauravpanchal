@@ -1,5 +1,5 @@
 <h1 align="center">Hey !👋, I'm Saurav Panchal </h1>
-<h3 align="center">An ordinarily passionate yet, obsessed developer from India</h3>
+<h3 align="center">An ordinarily passionate yet, obsessed developer</h3>
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">&quot;Building something is not a viable option when one CAN SEE people (atleast themselves) fail.&quot;<a href="https://twitter.com/hashtag/ThursdayThought?src=hash&amp;ref_src=twsrc%5Etfw">#ThursdayThought</a></p>&mdash; Saurav Panchal (@sauravpanchhal) <a href="https://twitter.com/sauravpanchhal/status/1481484825207119878?ref_src=twsrc%5Etfw">January 13, 2022</a></blockquote>
 
