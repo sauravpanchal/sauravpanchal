@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/sauravpanchhal" target="blank"><img src="https://img.shields.io/twitter/follow/sauravpanchhal?color=1DA1F2&logo=twitter&style=for-the-badge" alt="sauravpanchhal" /></a> </p>
 
+<img align="center" width="auto" src="https://github.com/sauravpanchal/sauravpanchal/blob/main/1.gif">
+
 - 🌱 I’m currently learning **shhh🤫** (priviledged information)
 
 - 🔭 I’m currently working on **shhh🤫** (confidential information)
