@@ -15,10 +15,6 @@
 
 - 📫 How to reach me **saurav.panchal.08@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1yiTjjhBbCpA4BVYZ922t61ihbqZNPFUu/view?usp=sharing)
-
-- ⚡ Fun fact **just act like you read something funny here 🥴**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sauravpanchhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sauravpanchhal" height="30" width="40" /></a>
