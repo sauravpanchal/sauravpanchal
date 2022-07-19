@@ -9,7 +9,7 @@
 
 - 💘 Could skip a beat for backend, webapps & machine-learning
 
-- 🔭 Building [creator-it](https://github.com/polonium31/creator_it) 
+- 🔭 Building [creator-it](https://github.com/sauravpanchal/creator_it)
 
 - 👨‍💻 Projects are available at [github.com/sauravpanchal](https://github.com/sauravpanchal)
 
